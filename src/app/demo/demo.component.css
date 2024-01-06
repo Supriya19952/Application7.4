@@ -1,0 +1,10 @@
+
+.tolowercase
+{
+    text-transform: lowercase;
+}
+
+.touppercase
+{
+    text-transform: uppercase;
+}
